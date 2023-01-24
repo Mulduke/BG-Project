@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mulduke/BG-Project/issues"
   },
-  "homepage": "https://github.com/Mulduke/BG-Project#readme"
+  "homepage": "https://github.com/Mulduke/BG-Project#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
