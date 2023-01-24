@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "Background-Generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mulduke/BG-Project.git"
+  },
+  "author": "@mulduke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mulduke/BG-Project/issues"
+  },
+  "homepage": "https://github.com/Mulduke/BG-Project#readme"
+}
